@@ -8,13 +8,13 @@
 
 ## Mobil PHP
 
-![gambar1](IM/1.png.png)
-![gambar2](IM/2.png.png)
-![gambar3](IM/3.png.png)
+![gambar1](1.png.png)
+![gambar2](2.png.png)
+![gambar3](3.png.png)
 
 ## Form dan Form input
 
-![gambar4](IM/b.png.png)
-![gambar5](IM/b1.png.png)
-![gambar6](IM/b2.png.png)
-![gambar7](IM/b3.png.png)
+![gambar4](b.png.png)
+![gambar5](b1.png.png)
+![gambar6](b2.png.png)
+![gambar7](b3.png.png)
